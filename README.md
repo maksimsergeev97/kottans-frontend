@@ -43,4 +43,6 @@ Here, patterns and regular expressions when validating input were new to me . In
 The flex-flow and order properties were new to me, and the span attribute (when positioning grids) had never used them before.<br><br>
 4.3 [Flexbox Froggy](http://flexboxfroggy.com/) and [Grid Garden](http://cssgridgarden.com/) - very cool games to consolidate the viewed material! Cool interface and interesting puzzles!<br>
 [Screenshot Flexbox Froggy](https://github.com/maksimsergeev97/kottans-frontend/blob/09d6fa999474f26f3fd6f59db3a6e4caf8cd8004/task_responsive_web_design/Screenshot_flex_froggy.PNG) and [Screenshot Grid Garden](https://github.com/maksimsergeev97/kottans-frontend/blob/09d6fa999474f26f3fd6f59db3a6e4caf8cd8004/task_responsive_web_design/Screenshot_grid_garden.PNG)<br>
-
+## 5. HTML & CSS Practice: Hooli-style Popup
+Interesting experience of creating a dropdown list without using JS :)<br>
+[Demo](https://maksimsergeev97.github.io/Hooli-style-popup) | [Code base](https://github.com/maksimsergeev97/Hooli-style-popup)
