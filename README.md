@@ -45,4 +45,15 @@ The flex-flow and order properties were new to me, and the span attribute (when 
 [Screenshot Flexbox Froggy](https://github.com/maksimsergeev97/kottans-frontend/blob/09d6fa999474f26f3fd6f59db3a6e4caf8cd8004/task_responsive_web_design/Screenshot_flex_froggy.PNG) and [Screenshot Grid Garden](https://github.com/maksimsergeev97/kottans-frontend/blob/09d6fa999474f26f3fd6f59db3a6e4caf8cd8004/task_responsive_web_design/Screenshot_grid_garden.PNG)<br>
 ## 5. HTML & CSS Practice: Hooli-style Popup
 Interesting experience of creating a dropdown list without using JS :)<br>
-[Demo](https://maksimsergeev97.github.io/Hooli-style-popup) | [Code base](https://github.com/maksimsergeev97/Hooli-style-popup)
+[Demo](https://maksimsergeev97.github.io/Hooli-style-popup) | [Code base](https://github.com/maksimsergeev97/Hooli-style-popup)<br>
+## 6. JS Basics
+6.1 [Screenshot 4 week](https://github.com/maksimsergeev97/kottans-frontend/blob/main/task_js_basics/Coursera_week_4.PNG) - all the topics from js basics were familiar to me. Very useful basics of the language, for beginners<br>
+### FreeCodeCamp
+6.2 All freeCodeCamp tasks were incredibly useful, very interesting, sometimes confusing and difficult :) Thanks for giving me the opportunity to solve them!
+[Basic JavaScript](https://github.com/maksimsergeev97/kottans-frontend/blob/main/task_js_basics/freecodecamp-1.PNG) - the first 100 tasks were completed without much difficulty.<br><br>
+[ES6 Challenges](https://github.com/maksimsergeev97/kottans-frontend/blob/main/task_js_basics/freecodecamp-2.PNG) - interesting practical information about using the ES6 standard.<br> 
+[Basic Data Structures](https://github.com/maksimsergeev97/kottans-frontend/blob/main/task_js_basics/freecodecamp-5.PNG) - understanding the basics of working with arrays and objects is very important for beginners.<br>
+[Basic Algorithm Scripting](https://github.com/maksimsergeev97/kottans-frontend/blob/main/task_js_basics/freecodecamp-6.PNG) - some tasks were more difficult and it was very interesting to solve them.<br>
+[Functional Programming](https://github.com/maksimsergeev97/kottans-frontend/blob/main/task_js_basics/freecodecamp-7.PNG) - learned about the concept of functional programming. Very important information.<br>
+[Algorithm Scripting Challenges](https://github.com/maksimsergeev97/kottans-frontend/blob/main/task_js_basics/freecodecamp-8.PNG) - coolest tasks! Some were solved in 5 minutes, some had to sweat for hours :)
+It's good to have hints :)
