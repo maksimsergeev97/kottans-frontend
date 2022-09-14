@@ -56,4 +56,9 @@ Interesting experience of creating a dropdown list without using JS :)<br>
 [Basic Algorithm Scripting](https://github.com/maksimsergeev97/kottans-frontend/blob/main/task_js_basics/freecodecamp-6.PNG) - some tasks were more difficult and it was very interesting to solve them.<br>
 [Functional Programming](https://github.com/maksimsergeev97/kottans-frontend/blob/main/task_js_basics/freecodecamp-7.PNG) - learned about the concept of functional programming. Very important information.<br>
 [Algorithm Scripting Challenges](https://github.com/maksimsergeev97/kottans-frontend/blob/main/task_js_basics/freecodecamp-8.PNG) - coolest tasks! Some were solved in 5 minutes, some had to sweat for hours :)
-It's good to have hints :)
+It's good to have hints :)<br>
+## 7. DOM
+7.1 [Screenshot 5 week](https://github.com/maksimsergeev97/kottans-frontend/blob/main/task_js_dom/Coursera_week_5.PNG) - all the information about the DOM, from the course, was familiar to me. I find it very convenient to use document.querySelector and document.querySelectorAll.<br>
+7.2 [Algorithm Scripting Challenges](https://github.com/maksimsergeev97/kottans-frontend/blob/main/task_js_dom/freecodecamp-8.PNG) - as I wrote above, some of these tasks were difficult and took a lot of time, sometimes I had to look at hints.<br>
+7.3 An interesting practical task, used a json file as a database :)<br>
+[Demo](https://maksimsergeev97.github.io/JS-DOM-Practice) | [Code base](https://github.com/maksimsergeev97/JS-DOM-Practice)<br>
